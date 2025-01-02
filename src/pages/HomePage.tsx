@@ -15,7 +15,7 @@ const HomePage: React.FC = () => {
 
   return (
     <div className="bg-gray-100 min-h-screen">
-      <div className="container mx-auto py-8 ">
+      <div className="container mx-auto py-8 px-2">
         <div className="text-4xl font-semibold subpixel-antialiased">
           Users List
         </div>
